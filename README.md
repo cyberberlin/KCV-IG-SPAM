@@ -8,7 +8,7 @@
 <h2>KCV-IG-SPAMMER</h2>
 
 
-<img src="https://i.imgur.com/CifoNw5.jpg" data-canonical-src="https://www.youtube.com/watch?v=JX7fg5HrrSE&t=95s" style="max-width:100%;">
+<img src="CYB3R_B3RLIN" data-canonical-src="https://www.youtube.com/watch?v=JX7fg5HrrSE&t=95s" style="max-width:100%;">
 
 
 
@@ -49,8 +49,8 @@ python3 KCV-SPAMM.py
 ## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 ```bash
 Download python3
-Download 007spam-BOT
-Extract 007spam-BOT into Desktop
+Download KCV-SPAMMER
+Extract KCV-SPAMMER into Desktop
 Open CMD and type the following commands:
 cd Desktop/007spam-BOT-master/
 python -m pip install requests
