@@ -3,29 +3,7 @@
 <a href="https://github.com/cyberberlin/KCV-IG-SPAMMER"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
 <a href="https://github.com/cyberberlin/KCV-IG-SPAMMER"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
 <p><h1>Auto report Instagram accounts ( insta spamming ) 😈
-___           _,.---,---.,_
-            |         ,;~'             '~;,
-            |       ,;                     ;,
-   Frontal  |      ;                        ; ,--- Supraorbital Foramen
-    Bone    |     ,'                        /'
-            |    ,;                       /' ;,
-            |    ; ;      .          . <-'  ; |
-            |__  | ;   ______       ______   ;<----- Coronal Suture
-           ___   |  '/~ ~ . ~ ~\'  |
-           |     |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
- Maxilla,  |      |   |        }:{        | <------ Orbit
-Nasal and  |      |   l       / | \       !   |
-Zygomatic  |      .~  (__,.-- .^. --.,__)  ~.
-  Bones    |      |    ----;' / | \  ;-<--------- Infraorbital Foramen
-           |__     \__.       \/^\/       .__
-              ___   V| \                 / |V <--- Mastoid Process
-              |      | |T~\___!___!___/~T| |
-              |      | | IIII_I_I_I_IIII | |
-     Mandible |      |  \ III I I I III,/  |
-              |       \    ~~~~~~~~~~
-              |         \   .       . <-x---- Mental Foramen
-              |__         \.    ^    .
-                            ^~~~^~~~^</h1>
+___           _,.---,---.,_ </h1>
 <br> ⚠️Note! : We don't Accept any responsibility for any illegal usage.</p>
 
 <h2>KCV-IG-SPAMMER</h2>
